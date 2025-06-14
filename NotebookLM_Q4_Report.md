@@ -5,7 +5,7 @@
 **Student ID:** 22025615  
 **Subject:** BUS5001 – Cloud Platforms and Analytics  
 **Assessment:** Assignment 3 – Q4: Evaluating Cloud-Based Technology  
-**GitHub Repository Created:** June 2025
+
 
 ---
 
