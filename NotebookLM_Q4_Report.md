@@ -1,7 +1,7 @@
 # BUS5001 – Assignment 3  
 ## Question 4: Evaluating Cloud-Based Technology (NotebookLM)
 
-**Name:** Sarath K. Menon  
+**Name:** Sarath Kumar
 **Student ID:** 22025615  
 **Subject:** BUS5001 – Cloud Platforms and Analytics  
 **Assessment:** Assignment 3 – Q4: Evaluating Cloud-Based Technology  
