@@ -1,4 +1,8 @@
-# BUS5001 Assignment 3 – Q4: Evaluating Cloud-Based Technology (NotebookLM)
+# BUS5001 Assignment 3 – Q4: Evaluating Cloud-Based Technology  
+**Student Name:** Sarath Kumar  
+**Student ID:** 22025615  
+
+---
 
 ## 4a. Extracting Citations for Assignments
 
@@ -71,3 +75,10 @@ While useful, there are a few things to watch out for:
 ## Final Thoughts
 
 NotebookLM played a supportive role in my academic work for BUS5001. It helped me revise faster, manage citations more effectively, and navigate course material more easily. However, critical thinking and validation of AI responses were still essential. I now view NotebookLM as a smart assistant that augments—not replaces—my own analysis.
+
+---
+
+*Submitted by:*  
+**Sarath Kumar**  
+**Student ID: 22025615**  
+**La Trobe University**  
