@@ -1,84 +1,91 @@
-# BUS5001 Assignment 3 – Q4: Evaluating Cloud-Based Technology  
-**Student Name:** Sarath Kumar  
-**Student ID:** 22025615  
+# BUS5001 Assignment 3 – Question 4: Evaluating Cloud Based Technology
+
+**Student Name**: Sarath Kumar  
+**Student ID**: 22025615  
 
 ---
 
-## 4a. Extracting Citations for Assignments
+## 4. Evaluating Cloud Based Technology
 
-While working on my report for BUS5001 – *Cloud Platforms and Analytics*, I needed to reference multiple academic sources using APA 7th edition format. Normally, manually formatting citations is tedious and prone to errors. To make the process easier, I used **NotebookLM’s “Discover sources” feature**.
+### a) Key Functionalities of NotebookLM (2 Marks)
 
-### What I Did
-- Clicked the **Discover** button in NotebookLM.
-- Selected APA citation resources:
-  - *APA 7th Edition Reference Guide*
-  - *In-text Citations – APA Style*
-  - *Victoria University APA Referencing Guide*
-- Typed the prompt:  
+NotebookLM offers several features that are highly aligned with academic use cases:
+
+- **Document Upload & Analysis**: Users can upload PDFs, slides, lecture notes, and more, allowing the AI to read and respond based on that content.
+- **Automatic Summarisation**: Generates clear summaries for long documents or notes.
+- **Question Answering**: Users can ask questions about the uploaded materials and get accurate, context-based responses.
+- **Citation Support**: Includes automatic citation generation in APA 7th style.
+- **Multi-Source Insight Extraction**: Can pull context from multiple documents at once for deeper academic analysis.
+
+These functions mirror the everyday activities of students and researchers — such as exam prep, literature review, summarising readings, and proper referencing.
+
+---
+
+### b) Demonstrating Use of NotebookLM in Academic Scenarios (5 Marks)
+
+#### 4. Extracting Citations for Assignments
+
+While working on my BUS5001 report, I used NotebookLM to quickly gather and format citations in APA 7th edition. This eliminated the need to manually search and format references.
+
+**Steps Taken**:
+- Used the **Discover** feature to find APA referencing guides.
+- Added the following sources:
+  - APA 7th Edition Reference Guide
+  - In-text Citations – APA Style
+  - Victoria University’s APA Referencing Web Guide
+- Prompted:  
   `"List all references or citations in APA format from this document."`
-- NotebookLM automatically returned citations correctly formatted in APA style.
+- NotebookLM returned structured citations instantly.
 
-### Why It Was Helpful
-- Saved time and reduced formatting errors.
-- Ensured compliance with university citation standards.
-- Avoided switching between external tools and lecture notes.
-- Made referencing feel like an integrated part of my workflow.
-
----
-
-## 4b. Pulling Insights from Multiple Sources
-
-For exam prep and assignment writing, I needed to connect ideas from various weeks of lectures and workshop files. Instead of manually browsing each PDF, I tested NotebookLM’s ability to synthesise knowledge from multiple documents at once.
-
-### What I Did
-- Uploaded **15 documents**, including:
-  - `BUS5001-Wk01.pdf`, `BUS5001-Wk04-Security.pdf`, `BUS5001-Wk09-AI-in-the-Cloud.pdf`, `BUS5001-Wk12.pdf`
-  - Workshop materials and lecture slides
-- Entered a high-level question:
-  > "Compare ethical frameworks across cloud security, data governance, and AI regulations."
-- NotebookLM processed all files and responded with integrated insights from:
-  - Week 1: foundational knowledge
-  - Week 4 & 12: cloud security and privacy
-  - Week 9: AI ethics
-  - APA citation guides
-
-### Why It Was Helpful
-- Helped connect interrelated topics from different weeks.
-- Accelerated revision and gave me confidence in structuring my arguments.
-- Provided context-rich responses that I could refine for assignments and exams.
-- Eliminated the need to search multiple files manually.
+**Why It Helped**:
+- Avoided manual formatting errors.
+- Saved time during assignment preparation.
+- Made it easy to follow academic integrity standards.
 
 ---
 
-## 4c. My Reflections on NotebookLM’s Capabilities
+#### 5. Pulling Insights from Multiple Sources
 
-### i. Accuracy and Relevance
+For exam prep, I tested how NotebookLM handles multiple lecture PDFs and notes at once.
 
-NotebookLM mostly delivers reliable summaries, especially from structured lecture slides. It clearly explained key concepts like *data privacy*, *PaaS*, and *governance*. However, vague or complex source documents sometimes led to slightly inaccurate or oversimplified responses. Overall, I found the output very useful but occasionally needed to double-check the details.
+**Steps Taken**:
+- Uploaded 15 files:  
+  _BUS5001-Wk01, Wk04, Wk09, Wk12, Workshop PDFs, Lecture Slides, etc._
+- Asked a higher-order question:  
+  `"Compare ethical frameworks across cloud security, governance, and AI."`
+- NotebookLM analysed across weeks and summarised key takeaways from multiple files.
 
-### ii. Usefulness for Students
-
-From a student perspective, this tool is a game changer:
-- No need to flip through dozens of PDFs to find what I need.
-- I could ask natural language questions and get direct answers.
-- The automatic citation feature alone saved me hours during assignment season.
-
-### iii. Limitations and Concerns
-
-While useful, there are a few things to watch out for:
-- **Bias or outdated content** if old materials are used as sources.
-- **Risk of over-reliance** – relying entirely on AI-generated summaries can cause key details to be missed.
-- **Data privacy** – I was careful not to upload sensitive academic content, since the platform is hosted by Google.
+**Why It Helped**:
+- Brought together connections between topics I hadn’t considered.
+- Helped me revise faster.
+- Provided structured responses I could re-use in my answers.
 
 ---
 
-## Final Thoughts
+### c) Critical Analysis of NotebookLM’s Capabilities (3 Marks)
 
-NotebookLM played a supportive role in my academic work for BUS5001. It helped me revise faster, manage citations more effectively, and navigate course material more easily. However, critical thinking and validation of AI responses were still essential. I now view NotebookLM as a smart assistant that augments—not replaces—my own analysis.
+#### i. Accuracy and Relevance of AI Output
+
+NotebookLM generally provides useful, accurate summaries and definitions — particularly when content is structured well (e.g., lecture slides or APA guides). However, vague or unstructured sources may lead to less precise answers. For example, definitions of "data governance" were consistent, but some deeper questions produced oversimplified responses.
+
+#### ii. Usefulness in Academic Workflows
+
+As a student, I found NotebookLM particularly valuable for:
+- Summarising lecture content efficiently.
+- Preparing revision notes.
+- Automatically generating correct citations.
+- Quickly checking my understanding through Q&A.
+
+#### iii. Limitations and Concerns
+
+- **Hallucinations**: Occasionally, it invents references or misinterprets ambiguous content.
+- **Bias**: It reflects the bias in uploaded materials — outdated readings may lead to outdated answers.
+- **Privacy**: Since it’s a cloud-based tool, sensitive documents (e.g., unpublished research) should be used with caution.
 
 ---
 
-*Submitted by:*  
-**Sarath Kumar**  
-**Student ID: 22025615**  
-**La Trobe University**  
+### Final Thoughts
+
+NotebookLM is a helpful assistant for students and researchers. It’s not perfect and needs human oversight, but when used wisely, it saves significant time and improves academic productivity.
+
+---
